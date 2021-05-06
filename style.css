@@ -1,0 +1,33 @@
+body {
+  background: rgb(233, 198, 233);
+  color: #fff;
+  opacity: 0.9;
+}
+
+.row {
+  font-size: 20px;
+  color: rgb(65, 0, 0);
+}
+
+.success .error {
+  color: #fff;
+  padding: 5px;
+  margin: 5px 15px;
+}
+
+.success {
+  background: rgb(0, 255, 0);
+  color: #fff;
+  padding: 0 0 0 10px;
+}
+
+.error {
+  background: rgb(255, 0, 0);
+  color: #fff;
+  padding: 0 0 0 10px;
+}
+
+#submit {
+  background: royalblue;
+  color: #fff;
+}
